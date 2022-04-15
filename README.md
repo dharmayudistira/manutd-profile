@@ -4,7 +4,7 @@
 [![Language](https://img.shields.io/badge/language-Kotlin-blue)](https://github.com/dharmayudistira/ManUtd-Profile/blob/master/build.gradle)
 [![MinSdk](https://img.shields.io/badge/minsdk-23-red)](https://github.com/dharmayudistira/ManUtd-Profile/blob/master/build.gradle)
 
-> <b>Warning</b>: this app built to accomplish "Belajar Membangung Aplikasi Android untuk Pemula" course which held by dicoding.com. Please be wise to clone and learn the flow of app. You are not allowed to copy/create derivatives/steal/sell this program codes.
+> <b>Warning</b>: this app built to accomplish #juaraandroid and "Belajar Membangung Aplikasi Android untuk Pemula" course which held by dicoding.com. Please be wise to clone and learn the flow of app. You are not allowed to copy/create derivatives/steal/sell this program codes.
 
 <img src="assets_readme/overview_project.jpg">
 <hr>
